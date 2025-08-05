@@ -16,7 +16,7 @@ width: 320px;
 }
 .visor{
 background-color: rgb(255, 43, 43);
-color: rgb(63, 253, 38);
+color: rgb(115, 21, 134);
 font-size: 36px;
 text-align: right;
 padding: 20px;
@@ -36,8 +36,8 @@ padding: 20px;
 font-size: 20px;
 border: none;
 border-radius: 10px;
-background-color: #f0a8a8;
-color: rgb(255, 208, 121);
+background-color: #c48989;
+color: rgb(245, 189, 85);
 cursor: pointer;
 transition: 0.2s;
 }
